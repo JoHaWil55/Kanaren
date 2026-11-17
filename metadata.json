@@ -1,0 +1,6 @@
+{
+  "name": "Kanaren Entdecker",
+  "description": "Persönlicher digitaler Kreuzfahrt-Begleiter für selbstständige Landgänge zu Fuß und mit dem Leihfahrrad auf den Kanarischen Inseln (AIDAblu).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
